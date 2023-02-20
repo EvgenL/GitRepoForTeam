@@ -1,0 +1,6 @@
+TestScript {
+	void DoSomething() {
+	
+	}
+
+}
